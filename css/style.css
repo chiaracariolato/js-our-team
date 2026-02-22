@@ -1,0 +1,41 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: purple;
+    font-weight: bolder;
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+    font-size: large;
+    font-weight: 900;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-size: small;
+}
+
+#subtitle {
+    font-size: larger;
+}
+
+
+.card-display {
+    color: white;
+    background-color: black;
+}
+
+.img-dim {
+    width: 100px;
+    height: 100%;
+}
+
+.btn-primary {
+    background-color: purple;
+    border-color: purple;
+}
