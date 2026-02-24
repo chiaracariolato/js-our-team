@@ -39,3 +39,13 @@ p {
     background-color: purple;
     border-color: purple;
 }
+
+.btn-primary:hover {
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn-primary:active {
+    background-color: purple !important;
+    border-color: purple !important;
+}

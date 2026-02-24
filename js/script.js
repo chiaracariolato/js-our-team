@@ -46,7 +46,7 @@ function createCards (name, role, email, image) {
 
     // 2.1. Creo il contenitore della singola card
     let card = document.createElement('div');
-    card.classList.add('col-12', 'col-md-6', 'col-lg-4', 'py-2', 'm-0')
+    card.classList.add('col-12', 'col-md-6', 'col-xl-4', 'py-2', 'm-0')
 
     // 2.2 Creo il contenitore del contenuto della card
     let cardContent = document.createElement('div');
